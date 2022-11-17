@@ -3,5 +3,5 @@
 
 ## MCIMD<br/>Métodos Computacionais Intensivos para Mineração de Dados
 <br/>
-Resolução da primeira lista de exercícios<br/>
+Resoluções das listas de exercícios<br/>
 Aluno: Eduardo Corrêa
