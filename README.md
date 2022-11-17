@@ -1,4 +1,4 @@
-![Logo](Lista1/img/unb_logo_cor.png)
+![Logo](Assets/images/unb_logo_cor.png)
 # PPCA<br/>Programa de Pós-Graduação em Computação Aplicada
 
 ## MCIMD<br/>Métodos Computacionais Intensivos para Mineração de Dados
